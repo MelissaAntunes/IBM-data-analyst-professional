@@ -10,10 +10,11 @@
 * ### **Excel Dashboard**
 
 <p align="center">
-<img src="/Data Visualization and Dashboards with Excel and Cognos/IMG/ExcelLab3.PNG" width=100% height=100%>
+<img src="https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/IMG/ExcelLab3.png" width=100% height=100%>
 
 <p align="center">
-<img src="(https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/IMG/ExcelLab3.png)" width=100% height=100%>
+<img src="https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/IMG/ExcelFinalAssignment.png
+" width=100% height=100%>
 
 * ### **IBM Cognos Dashboard**
 
