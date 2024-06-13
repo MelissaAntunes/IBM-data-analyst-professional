@@ -3,7 +3,7 @@
 # IBM Data Analyst Professional <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
-Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
+This program will teach you the **foundational data skills** employers are seeking for entry-level data analytics roles. It will not only help you start your career in data analytics, but also provides a strong foundation for future career development in other paths such as data science, artificial intelligence, deep learning, or data engineering. 
 
 ## 🔑 Key Skills Learned 
 - Data Science
