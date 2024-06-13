@@ -8,11 +8,15 @@ Gain the **job-ready skills** for an entry-level data analyst role through this 
 Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
 ## 🔑 Key Skills Learned 
-- Data extraction using the yfinance library
-- Webscraping using the BeautifulSoup library
+- Data Science
 - Data Analysis
-- Dashboard creation
-
+- Python Programming
+- Microsoft Excel
+- IBM Cognos Analytics
+- SQL
+- Numpy
+- Pandas
+- Data Visualization
 
 ---
 
@@ -72,14 +76,16 @@ The purpose of this course is to introduce relational database concepts and help
 
 - [x] [__Data Analysis with Python__]()
 
-Learn how to analyze data using Python. Topics covered:
+This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
-1) Importing Datasets
-2) Cleaning the Data
-3) Data frame manipulation
-4) Summarizing the Data
-5) Building machine learning Regression models
-6) Building data pipelines
+Topics covered include:  
+- collecting and importing data 
+- cleaning, preparing & formatting data 
+- data frame manipulation 
+- summarizing data 
+- building machine learning regression models 
+- model refinement 
+- creating data pipelines 
 
 <p align="center">
 <img src="" width=60% height=60%>
