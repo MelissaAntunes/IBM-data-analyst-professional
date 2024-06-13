@@ -29,7 +29,7 @@ Power your data analyst career by learning the core principles of data analysis 
 
 ## 📙 Course Structures
 
-There are 9 Courses in this Professional Certificate Specialization are as follows:
+There are 9 Courses in this Professional Certificate Specialization, which are as follows:
 
 - [x] [__Introduction to Data Analytics__]()
 
