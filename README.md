@@ -35,14 +35,14 @@ There are 9 Courses in this Professional Certificate Specialization, which are a
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
 <p align="center">
-<img src="" width=60% height=60%>
+<img src="https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Certificates/Introduction_to_Data_Analytics_Certificate.pdf" width=60% height=60%>
 
 - [x] [__Excel Basics for Data Analysis__]()
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
 <p align="center">
-<img src="" width=60% height=60%>
+<img src="https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Certificates/Excel_Basics_for_Data_Analysis_Certificate.pdf" width=60% height=60%>
 
 
 - [X] [__Data Visualization and Dashboards with Excel and Cognos__ ]()
@@ -50,7 +50,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
-<img src="" width=60% height=60%>
+<img src="https://github.com/MelissaAntunes/IBM-data-analyst-professional/blob/main/Certificates/Data_Viz_and_Dashboards_with_Excel_and_Cognos_Certificate.pdf" width=60% height=60%>
 
 - [x] [__Python for Data Science and AI__]()
 
